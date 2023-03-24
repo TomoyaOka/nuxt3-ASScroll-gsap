@@ -1,4 +1,4 @@
-import * as ASScroll from "@ashthornton/asscroll";
+import ASScroll from "@ashthornton/asscroll";
 import { gsap, Power4 } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 gsap.registerPlugin(ScrollTrigger);
